@@ -7,17 +7,17 @@
 
 Las imágenes de diagnóstico en medicina nuclear se producen por medio de la detección de los rayos x emitidos por radionucleidos incorporados al cuerpo. Estos radionucleidos son adheridos a moléculas llamadas carrier que transportan el elemento radiactivo a las zonas de interés para las cuales fueron diseñadas. Así, por ejemplo, hay moléculas carrier que se dirigen a zonas donde hay mayor concentración de glucosa. Estos radionucleidos se utilizan para dos propósitos generales: diagnóstico y tratamiento de diferentes patologías, entre ellas el cáncer.
 
-<img src="pics/readme-im1.jpg" alt="im1" height="200"/>
-<img src="pics/readme-im2.jpg" alt="im2" height="200"/>
+<img src="pics/readme-im1.jpg" alt="im1" height="200" align="center"/>
+<img src="pics/readme-im2.jpg" alt="im2" height="200" align="center"/>
 
 
 La distribución de los radionucleidos en el cuerpo humano depende de varios factores, principalmente del metabolismo del paciente y de la molécula carrier. Por sus propias características, esta distribución no es homogénea ni tampoco se concentra completamente en la zona del cuerpo a la que se desea irradiar, e incluso varía en función del tiempo. Así por ejemplo, podremos encontrar un radionucleído concentrado en una zona tumoral, en una relación 4:1 con su concentración en el resto del cuerpo.
 
-<img src="pics/readme-im3.jpg" alt="im3" height="200"/>
+<img src="pics/readme-im3.jpg" alt="im3" height="200" align="center"/>
 
 Esta técnica y sus aplicaciones, se encuentran en constante expansión y son cada día más utilizadas en pacientes de todo tipo de edades y características. Las energías de los rayos x de radionucleidos utilizados tradicionalmente para diagnóstico, no revisten mayores peligros para el paciente si es utilizada para estudios ocasionales. Pero la utilización de estos rayos para tratamiento (mayor energía y otras partículas como electrones o partículas alfa) o en controles de rutina periódicos puede implicar grandes depósitos de dosis en el cuerpo del paciente, pudiendo provocar consecuencias indeseables en órganos o tejidos más sensibles y que no necesitan ser tratados. Por esto, la dosimetría en medicina nuclear, constituye hoy una herramienta fundamental para conocer la energía impartida a cada órgano/tejido y poder así evaluar riesgos.
 
-<img src="pics/readme-im4.jpg" alt="im4" height="200"/>
+<img src="pics/readme-im4.jpg" alt="im4" height="200" align="center"/>
 
 El presente proyecto propone el uso del análisis de clusters para aplicaciones en dosimetría 3D como método de automatización para la identificación de inhomogeneidades. Se asociarán vóxeles a volúmenes de interés de acuerdo a sus propiedades funcionales y se utilizarán técnicas de clustering para ello, pudiendo luego determinar mapas de actividad acumulada necesarios para realiza cálculos de dosimetría 2D y 3D.
 
