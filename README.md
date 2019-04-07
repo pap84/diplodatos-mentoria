@@ -1,5 +1,5 @@
 #### Mentorías 2019
-### *Facilitador:* P. Pérez
+### **Facilitador:** P. Pérez
 
 # Herramientas de Data Science para dosimetría en medicina nuclear
 
