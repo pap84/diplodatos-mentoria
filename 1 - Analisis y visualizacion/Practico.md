@@ -7,6 +7,8 @@ Proyecto de mentoría para la materia de [Análisis y Visualización](https://gi
 ## Herramientas de Data Science para dosimetría en medicina nuclear
 # Análisis y Visualización
 
+En imágenes médicas, la presentación de resultados de forma intuitiva es central para la comunicación con el médico. El físico médico debe ser capaz de presentar los resultados logrando proveer tanto información anatómica como metabólica en una misma imagen. En análisis y visualización se detectarán outliers, se definirán zonas de interés y se observarán características particulares de las imágenes.
+
 En el presente proyecto realizaremos un trabajo de exploración sobre un conjunto de 2 imágenes de medicina nuclear a elección del/de la alumno/a. Cada imagen constituirá un dataset en sí mismo.
 
 ## Dataset
