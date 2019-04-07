@@ -2,7 +2,7 @@
 #### *Herramientas de Data Science para dosimetría en medicina nuclear*
 ### **Facilitador:** P. Pérez
 
-Proyecto de mentoría para la materia de Análisis y Visualización.
+Proyecto de mentoría para la materia de [Análisis y Visualización](https://github.com/DiploDatos/AnalisisyVisualizacion).
 
 ## Herramientas de Data Science para dosimetría en medicina nuclear
 # Análisis y Visualización
@@ -51,5 +51,6 @@ La comunicación debe estar apuntada a un público técnico pero sin conocimient
 
 ## Entrega
 
-Utilice Plotly, Bokeh o Dash (recomendable) para presentar los resultados.
-Deadline: 15 días posteriores al finalizar la materia de Análisis y Visualización.
+Utilice [Plotly](https://plot.ly/python/), [Bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html) o [Dash](https://dash.plot.ly/?_ga=2.107731778.1979278639.1554668584-1509392585.1554668584) (recomendable) para presentar los resultados.
+
+**Deadline:** 15 días posteriores al finalizar la materia de Análisis y Visualización.
