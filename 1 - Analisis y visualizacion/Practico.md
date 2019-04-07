@@ -18,7 +18,7 @@ En el presente proyecto realizaremos un trabajo de exploración sobre un conjunt
 Encuentre una imagen 2D de medicina nuclear (puede ser de Cámara Gamma o un slice de una imagen de técnicas 3D). La imagen debe haber sido adquirida a distintos instantes de tiempo y debe ser anonimizada antes de su utilización. Se muestra a continuación, un ejemplo de serie de 3 instantes de tiempo en los que se adquirió la misma imagen.
 
 <p align="center">
-<img src="../pics/1-im1.png" alt="im1" height="200"/>
+<img src="../pics/1-im1.png" alt="im1" height="250"/>
 </p>
 
 ### Dataset 1
